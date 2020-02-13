@@ -1,0 +1,46 @@
+/* CSS Document */
+body {
+	margin: 0;
+	text-align: left;
+	font-family: "Roboto", "Poppins", "Montserrat"
+}
+.main-text {font-family:"Roboto";
+font-size: 1.125rem;}
+
+.author-text {font-family: "Poppins";
+color: #D6D6D6;
+font-size: 1.5rem;}
+
+.top-container {
+	background-color: #487A9F;
+	position: relative;
+	padding-top: 100px;
+	text-align: center;
+}
+.profile-container {
+	background-color: #fff;
+	text-align: center;
+}
+.middle-container {
+	background-color: #AC5500;
+	margin: 100px 0;
+}
+
+.bottom-container {
+	background-color: #FFC416;
+	margin: 50px 0;
+}
+
+.blog-container {
+	width: 1140px;
+	margin: 20px auto 0 auto;
+}
+.container1 {
+	position: relative;
+	text-align: center;
+	padding: 150px;
+	background-color: #190000;
+}
+.container2 {
+	background-color: #487A9F; 
+}
